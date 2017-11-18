@@ -1,21 +1,3 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Marketplace
-Explore
- @Nikokatsu
- Sign out
- Watch 0
-  Star 0  Fork 0 Nikokatsu/TestAgar
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights  Settings
-Tree: 05be32e6f0 Find file Copy pathTestAgar/src/client/js/app.js
-05be32e  on Aug 17
-@Nikokatsu Nikokatsu Update app.js
-1 contributor
-RawBlameHistory      
-1024 lines (873 sloc)  30.8 KB
 var io = require('socket.io-client');
 
 var playerName;
@@ -1039,15 +1021,3 @@ function resize() {
     player.screenHeight = c.height = screenHeight = playerType == 'player' ? window.innerHeight : gameHeight;
     socket.emit('windowResized', { screenWidth: screenWidth, screenHeight: screenHeight });
 }
-© 2017 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-API
-Training
-Shop
-Blog
-About
