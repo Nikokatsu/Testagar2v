@@ -17,6 +17,7 @@
     "gameWidth": 3700,
     "gameHeight": 3700,
     "adminPass": "DrAdmin192",
+    "ownerPass": "nogamenolife",
     "gameMass": 25000,
     "maxFood": 325,
     "maxVirus": 0,
