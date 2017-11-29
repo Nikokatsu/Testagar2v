@@ -1,11 +1,11 @@
 {
-  "name": "agar-clone",
-  "description": "A simple Agar.io clone",
+  "name": "Proxy",
+  "description": "A simple Proxy",
   "scripts": {
     "build": "gulp build",
     "start": "gulp run",
     "watch": "gulp watch",
     "test": "gulp test"
   },
-  "repository": "https://github.com/huytd/agar.io-clone"
+  "repository": "https://github.com/Nikokatsu/Testagar2v"
 }
